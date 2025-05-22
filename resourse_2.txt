@@ -1,6 +1,0 @@
-Ivanov 4
-Smirnov 0
-Bobrovskiy 765
-Grek 4
-Boba 0
-Biba -100
